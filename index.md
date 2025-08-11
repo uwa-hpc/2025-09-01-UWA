@@ -4,20 +4,20 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Western Australia"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "EZONE Room 210 Giumelli Learning Studio 4, 35 Stirling Hwy, Crawley Western Australia 6009"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "EZONE NORTH 211 Learning Studio, 35 Stirling Hwy, Crawley Western Australia 6009"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "-31.97982"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "115.81615"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "July 1-4, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+latitude: "-31.979553"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "115.816102"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "September 1-5, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 3:30 pm AWST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2024-07-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-07-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2025-09-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2025-09-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Chris Bording", "David Gray", "Emily Barker", "Michel Nzikou Mamboukou", "James Ward"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Kareem Galal", "Lucie Ketelsen"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["chris.bording@uwa.edu.au","david.gray@uwa.edu.au","emily.barker@uwa.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: "https://pad.carpentries.org/2024-07-01-UWA"  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite: "915910782807"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+collaborative_notes: "https://pad.carpentries.org/2025-09-01-UWA"  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+eventbrite: "1574586323079"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
